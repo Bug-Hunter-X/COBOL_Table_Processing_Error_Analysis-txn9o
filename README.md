@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, error in COBOL programs involving array (table) processing and indexing.  The provided code showcases the bug and how to fix it.  Understanding 1-based indexing is crucial to avoid such errors.
